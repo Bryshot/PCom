@@ -1,0 +1,5 @@
+﻿  10140.cpp
+C:\Users\Bryan De Renovales\source\repos\10140\10140\10140.cpp(16,13): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'size_t'; posible pérdida de datos
+C:\Users\Bryan De Renovales\source\repos\10140\10140\10140.cpp(45,68): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Bryan De Renovales\source\repos\10140\10140\10140.cpp(47,17): warning C4101: 'valor': variable local sin referencia
+  10140.vcxproj -> C:\Users\Bryan De Renovales\source\repos\10140\Debug\10140.exe
